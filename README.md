@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ChristianJude23
 - 👀 I’m interested in PC Building, Programming, Game Development
 - 🌱 I’m currently learning Python, C#, and Game Development
-- 💞️ I’m looking to collaborate on Game Developers and Web Developers
+- 💞️ I’m looking to collaborate on Game Developers and beginners
 - 📫 How to reach me @christianjudevillaber@gmail.com
 
 <!---
