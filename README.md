@@ -1,4 +1,4 @@
-# I’m @ChristianJude23
+# I’m ChristianJude23
 
 **` Student `**
 
