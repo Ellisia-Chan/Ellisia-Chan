@@ -13,7 +13,7 @@
 
 ### Game Engine I"m Currently Learning
 
-<img align="left" alt="Unity" width="100px" height="100" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original-wordmark.svg" />
+<img align="left" alt="Unity" width="100px" height="90" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original-wordmark.svg" />
 <img align="left" alt="Godot" width="100px" height="90" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" />
           
 
