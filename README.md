@@ -1,7 +1,7 @@
 # I’m Christian
 
 **` Student / Developer`**
-### Contact
+### Contact:
 christianjudevillaber@gmail.com
 
 ### Languages That I'm Currently Learning
