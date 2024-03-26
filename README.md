@@ -1,6 +1,6 @@
 # I’m Christian
 
-**` Student / Developer`**
+**` Student Developer`**
 ### Contact:
 christianjudevillaber@gmail.com
 
