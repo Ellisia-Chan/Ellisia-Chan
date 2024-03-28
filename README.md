@@ -19,15 +19,10 @@ christianjudevillaber@gmail.com
 <img align="left" alt="Unity" width="100px" height="90" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original-wordmark.svg" />
 <!-- <img align="left" alt="Godot" width="100px" height="80" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" /> -->
           
-
-
 <br />
 <br />
 <br />
 <br />
-<br />
-
-
 
 ### Path that I'm thinking to take:
 Web Devvelopment <br/>
