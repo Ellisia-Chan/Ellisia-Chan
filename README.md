@@ -27,6 +27,8 @@ christianjudevillaber@gmail.com
 
 ### Path that I'm thinking to take:
 
+
+
 Web Devvelopment <br/>
 Software Development <br/>
 Game Development <br/>
