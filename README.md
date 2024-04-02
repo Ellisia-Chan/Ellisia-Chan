@@ -12,8 +12,6 @@ christianjudevillaber@gmail.com
 
 <br />
 <br />
-<br />
-<br />
 
 ### Game Engine That I"m Currently Learning
 
