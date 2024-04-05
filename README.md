@@ -23,14 +23,7 @@ christianjudevillaber@gmail.com
 <br />
 <br />
 
-### Path that I'm thinking to take:
-Web Development <br/>
-Software Development <br/>
-Game Development <br/>
 #
-
-
-
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianJude23&hide_progress=true&theme=tokyonight)
 
