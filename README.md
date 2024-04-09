@@ -32,13 +32,13 @@ christianjudevillaber@gmail.com
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianJude23&hide_progress=true&theme=tokyonight)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChristianJude23&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Naereen's github streak](https://github-readme-streak-stats.herokuapp.com/?user=ChristianJude23&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChristianJude23&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 #
 
-[![Naereen's github trophy](https://github-profile-trophy.vercel.app/?username=ChristianJude23&row=1&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![Naereen's github trophy](https://github-profile-trophy.vercel.app/?username=ChristianJude23&row=1&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy) -->
 <!---
 ChristianJude23/ChristianJude23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
