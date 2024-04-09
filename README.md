@@ -34,6 +34,8 @@ christianjudevillaber@gmail.com
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChristianJude23&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Naereen's github streak](https://github-readme-streak-stats.herokuapp.com/?user=ChristianJude23&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
 #
 
 [![Naereen's github trophy](https://github-profile-trophy.vercel.app/?username=ChristianJude23&row=1&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
