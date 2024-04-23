@@ -13,6 +13,11 @@ christianjudevillaber@gmail.com
 <br />
 <br />
 
+<img  align="left" alt="CSS" width="80px" style="padding-right:10px;" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg'>
+
+<br />
+<br />
+
 ### Game Engine That I"m Currently Learning
 
 <img align="left" alt="Unity" width="100px" height="90" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original-wordmark.svg" />
