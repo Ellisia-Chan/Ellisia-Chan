@@ -2,10 +2,10 @@
 # I’m Christian
 
 **` Student Developer `**
+
 <br />
-
 A 1st year College Student at UPHSL
-
+<br />
 
 **` 👩‍💻 Skills 👩‍💻 `**
 
@@ -19,6 +19,7 @@ A 1st year College Student at UPHSL
 
 <img  align="left" alt="CSS" width="80px" style="padding-right:10px;" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg'>
 
+<br />
 <br />
 <br />
 <br />
