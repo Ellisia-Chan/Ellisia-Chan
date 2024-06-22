@@ -1,5 +1,4 @@
-[![MasterHead][(https://i.imgur.com/AXPQufr.png)](https://whvn.cc/ex136k)
-
+![MasterHead](https://imgur.com/PLs2IEP.png)
 # I’m Christian
 
 **` Student Developer `**
