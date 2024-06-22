@@ -1,10 +1,13 @@
 # I’m Christian
 
-**`Student Developer`**
-### Contact:
-christianjudevillaber@gmail.com
+**` Student Developer `**
+<br />
 
-### Languages That I'm Currently Learning
+A 1st year College Student at UPHSL
+
+
+**` 👩‍💻 Skills 👩‍💻 `**
+
 <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
@@ -17,11 +20,12 @@ christianjudevillaber@gmail.com
 
 <br />
 <br />
+<br />
 
-### Game Engine That I"m Currently Learning
+**` 🎮 Game Engines 🎮 `**
 
 <img align="left" alt="Unity" width="100px" height="90" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original-wordmark.svg" />
-<!-- <img align="left" alt="Godot" width="100px" height="80" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" /> -->
+<img align="left" alt="Godot" width="100px" height="80" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" />
 
 <br />
 <br />
@@ -47,4 +51,9 @@ ChristianJude23/ChristianJude23 is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 
+### Contact:
+christianjudevillaber@gmail.com
+
+
+#
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ChristianJude23&label=Profile%20views&color=0e75b6&style=flat" alt="lauvignelumeda" /> </p>
