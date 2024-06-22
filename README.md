@@ -1,4 +1,4 @@
-![MasterHead](https://imgur.com/PLs2IEP.png)
+<!-- ![MasterHead](https://imgur.com/PLs2IEP.png) -->
 # I’m Christian
 
 **` Student Developer `**
