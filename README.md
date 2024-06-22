@@ -5,7 +5,8 @@
 
 <br />
 A 1st year College Student at UPHSL
-<br />
+<br /><br />
+
 
 **` 👩‍💻 Skills 👩‍💻 `**
 
@@ -14,24 +15,18 @@ A 1st year College Student at UPHSL
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 
-<br />
-<br />
+<br /><br />
 
 <img  align="left" alt="CSS" width="80px" style="padding-right:10px;" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg'>
 
-<br />
-<br />
-<br />
-<br />
+<br /><br /><br /><br />
 
 **` 🎮 Game Engines 🎮 `**
 
 <img align="left" alt="Unity" width="100px" height="90" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original-wordmark.svg" />
 <img align="left" alt="Godot" width="100px" height="80" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" />
 
-<br />
-<br />
-<br />
+<br /><br /><br />
 
 <!-- [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama) -->
 
