@@ -1,4 +1,5 @@
-![MasterHead](https://github.com/user-attachments/assets/f448b1ef-e69f-40d4-9628-2a3c48f95141)
+![MasterHead](https://github.com/user-attachments/assets/7ce1f176-cc81-4fa1-898a-92c91ba88bc7)
+
 # Hi 🌸, I’m Ellisia
 
 **` Student Developer `**
