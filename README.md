@@ -25,19 +25,19 @@
 
 <table>
   <td align="center">
-    <img align="center" width="600px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ellisia-Dev&hide_progress=true&theme=tokyonight"/>
+    <img align="center" width="600px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ellisia-Chan&hide_progress=true&theme=tokyonight"/>
   </td>
   <td align="center">
-    <img align="center" width="600px" height="200px" src="https://github-readme-stats.vercel.app/api?username=Ellisia-Dev&show_icons=true&theme=tokyonight"/>
+    <img align="center" width="600px" height="200px" src="https://github-readme-stats.vercel.app/api?username=Ellisia-Chan&show_icons=true&theme=tokyonight"/>
   </td>
 </table>
 
 <div align="center">
-<img align="center" width="600px" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=Ellisia-Dev&theme=tokyonight"/>
+<img align="center" width="600px" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=Ellisia-Chan&theme=tokyonight"/>
 </div>
 
 ### Contact Me Here:
 christianjudevillaber@gmail.com
 
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ellisia-Dev&label=Profile%20views&color=0e75b6&style=flat" alt="lauvignelumeda" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ellisia-Chan&label=Profile%20views&color=0e75b6&style=flat" alt="lauvignelumeda" /> </p>
