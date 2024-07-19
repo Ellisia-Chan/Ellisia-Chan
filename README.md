@@ -8,7 +8,6 @@
 <p>A Beginner in Unity Game Engine</p>
 <p>Download My Games <a href="https://ellisya.itch.io/">Here</a></p>
 
-<br>
 
 <h2>✨Skills✨</h2>
 
@@ -18,7 +17,7 @@
 <img align="left" alt="CSS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img  align="left" alt="CSS" width="60px" style="padding-right:10px;" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg'>
 
-<br><br><br><br>
+<br><br><br>
 
 <h2>🎮 Game Engines 🎮</h2>
 
