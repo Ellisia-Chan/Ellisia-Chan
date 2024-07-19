@@ -5,7 +5,7 @@
 **` Student Developer `**
 
 <p>A Beginner in Unity Game Engine</p>
-<p>Download My Games <a href="https://ellisya.itch.io/">Here</a></p>
+<p>Download My Games <a href="https://ellisya.itch.io/" target="_blank">Here</a></p>
 
 <h2>✨Skills✨</h2>
 
