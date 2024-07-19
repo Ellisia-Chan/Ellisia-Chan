@@ -1,7 +1,7 @@
 ![MasterHead](https://github.com/user-attachments/assets/9099d646-d9ac-4437-a1ee-1bc91dc15c3a)
 
 
-# Hi! 🌸, I’m Ellisia
+<h1 align="center">Hi! 🌸, I’m Ellisia</h1>
 
 **` Student Developer `**
 
