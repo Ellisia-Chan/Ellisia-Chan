@@ -1,13 +1,11 @@
 ![MasterHead](https://github.com/user-attachments/assets/9099d646-d9ac-4437-a1ee-1bc91dc15c3a)
 
-
 <h1 align="center">Hi! 🌸, I’m Ellisia</h1>
 
 **` Student Developer `**
 
 <p>A Beginner in Unity Game Engine</p>
 <p>Download My Games <a href="https://ellisya.itch.io/">Here</a></p>
-
 
 <h2>✨Skills✨</h2>
 
@@ -37,7 +35,7 @@
 <img align="center" width="600px" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=Ellisia-Dev&theme=tokyonight"/>
 </div>
 
-### Contact:
+### Contact Me Here:
 christianjudevillaber@gmail.com
 
 <br><br>
