@@ -7,24 +7,14 @@
 <p>A Beginner in Unity Game Engine</p>
 <p>Download My Games <a href="https://ellisya.itch.io/" target="_blank">Here</a></p>
 
-<h2>✨Skills✨</h2>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,py,dotnet,figma,firebase,git,github,html,css,mysql,sqlite,stackoverflow,unity,visualstudio,vscode,windows&perline=9" />
+  </a>
+</p>
 
-<img align="left" alt="C#" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-<img align="left" alt="Python" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="left" alt="HTML" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="Figma" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-<img align="left" alt="Git" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<!-- <img align="left" alt="Java" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> -->
-<!-- <img align="left" alt="Android" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg"> -->
-<img  align="left" alt="MySql" width="55px" style="padding-right:10px;" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg'>
-
-<br><br>
-
-<h2>🎮 Game Engines 🎮</h2>
-<img align="left" alt="Unity" width="80px" height="85" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original-wordmark.svg" />
-<br><br><br><br><br>
-
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats 
 <table>
   <td align="center">
     <img align="center" width="600px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ellisia-Chan&hide_progress=true&theme=tokyonight"/>
