@@ -16,7 +16,7 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats 
 <table>
   <td align="center">
-    <img align="center" width="600px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ellisia-Chan&hide_progress=true&theme=tokyonight"/>
+    <img align="center" width="600px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ellisia-Chan&show_icons=true&locale=en&layout=compact&theme=tokyonight"/>
   </td>
   <td align="center">
     <img align="center" width="600px" height="200px" src="https://github-readme-stats.vercel.app/api?username=Ellisia-Chan&show_icons=true&theme=tokyonight"/>
