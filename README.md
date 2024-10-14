@@ -7,7 +7,7 @@
 <p>Download My Games <a href="https://ellisya.itch.io/" target="_blank">Here</a></p>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,py,dotnet,figma,firebase,git,github,html,css,mysql,sqlite,stackoverflow,unity,visualstudio,vscode,windows&perline=9" />
   </a>
