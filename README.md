@@ -25,15 +25,23 @@
 </table>
 
 <div align="center">
-<img align="center" width="600px" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=Ellisia-Chan&theme=tokyonight"/>
+  <img align="center" width="600px" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=Ellisia-Chan&theme=tokyonight"/>
 </div>
+<br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### Contact Me Here:
 christianjudevillaber@gmail.com
 
-<br>
+<br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ellisia-Chan&label=Profile%20views&color=0e75b6&style=flat" alt="lauvignelumeda" /> </p>
 
-<p align="center">
-     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  </picture>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
