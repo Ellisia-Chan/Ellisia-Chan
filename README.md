@@ -2,9 +2,10 @@
 
 <h1 align="center">Hi! 🌸, I’m Ellisia</h1>
 
-**` Student Developer `**
-<p>A Beginner in Unity Game Engine</p>
-<p>Download My Games <a href="https://ellisya.itch.io/" target="_blank">Here</a></p>
+<div align="center">
+  <p>A Beginner in Unity Game Engine</p>
+  <p>Download My Games <a href="https://ellisya.itch.io/" target="_blank">Here</a></p>
+</div>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**
 <p align="center">
