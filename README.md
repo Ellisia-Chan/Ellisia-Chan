@@ -17,15 +17,15 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats 
 <table>
   <td align="center">
-    <img align="center" width="600px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ellisia-Chan&show_icons=true&locale=en&layout=compact&theme=tokyonight"/>
+    <img align="center" width="600px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ellisia-Chan&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true""/>
   </td>
   <td align="center">
-    <img align="center" width="600px" height="200px" src="https://github-readme-stats.vercel.app/api?username=Ellisia-Chan&show_icons=true&theme=tokyonight"/>
+    <img align="center" width="600px" height="200px" src="https://github-readme-stats.vercel.app/api?username=Ellisia-Chan&show_icons=true&theme=tokyonight&hide_border=true""/>
   </td>
 </table>
 
 <div align="center">
-  <img align="center" width="600px" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=Ellisia-Chan&theme=tokyonight"/>
+  <img align="center" width="600px" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=Ellisia-Chan&theme=tokyonight&hide_border=true""/>
 </div>
 <br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
