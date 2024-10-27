@@ -40,8 +40,9 @@
 
   <!-- GitHub Stats and Progress -->
   <td align="center">
-    <img align="center" width="600px" height="200px" src="https://github-readme-stats.vercel.app/api?username=Ellisia-Chan&rank_icon=github&theme=omni&hide_border=true"/>
+    <img align="center" width="600px" height="200px" src="https://github-readme-stats.vercel.app/api?username=Ellisia-Chan&rank_icon=github&count_private=true&show_icons=true&theme=omni&hide_border=true"/>
   </td>
+  
 </table>
 
 <!-- GitHub Streak -->
