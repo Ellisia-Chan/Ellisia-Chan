@@ -65,7 +65,12 @@
   <a href="mailto:christianjudevillaber@gmail.com" title="Email"> 
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/> 
   </a>
-</div>
+
+
+<!--Linkedin-->
+<a href="https://www.linkedin.com/in/christian-jude-villaber-136320309/" title="LinkedIn"> 
+  <img alt="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" align="center"/> 
+</a>
 
 <!--Discord-->
 <!--
@@ -73,6 +78,7 @@
   <img alt="Discord" src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5865F2&logoColor=white&labelColor=&style=for-the-badge" height="30" align="center"/> 
 </a>
 -->
+</div>
 
 <br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
