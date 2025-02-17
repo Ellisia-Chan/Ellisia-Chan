@@ -3,7 +3,7 @@
 
 
 <!-- Introduction -->
-<h1 align="center">Hi!, I’m Ellisia 🌸</h1>
+<h1 align="center">Hi!, I’m Ely 🌸</h1>
 
 <div align="center">
   <h4>A Beginner in Game Development 🎮</h4>
